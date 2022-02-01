@@ -16,7 +16,7 @@
   <hr />
 </div>
 
-## What is Prisma?
+## What is DevConverter?
 
 DevConverter is an online file converter. We support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats. To get started, use the button below and select files to convert from your computer.
 
@@ -24,6 +24,6 @@ DevConverter is an online file converter. We support nearly all audio, video, do
 
 The fastest way to get started with DevConverter is by following the [**Main page**](https://devconverter.com/).
 
-## How does Prisma work
+## How does DevConverter work
 
 You can convert files using the website [**DevConverter**](https://devconverter.com/) or using our API [**API**](https://devconverter.com/docs)
